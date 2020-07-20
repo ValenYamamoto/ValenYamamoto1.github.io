@@ -1,52 +1,37 @@
+# Valen Yamamoto
+### Computer Science and Engineering Student
+### [Github Page](https://github.com/ValenYammaoto)
+----
+### Contact Information
+Location: San Jose, CA 95070
+Phone: (408) 394-5225
+Email: valenryamamoto@gmail.com
+
 ---
-title: "C'thulhu Resume"
-layout: resume
+### Education
+School: University of California, Irvine
+Expected Graduation: 2023
+Major: Computer Science and Engineering
+GPA: 4.0
+
 ---
+### Key Skills
+Programming Languages: Python, C, C++, Java, R, MATLAB
+Programs: Microsoft Excel, Solidworks, KiCAD
+Version Control: Git
+Operating Systems: Windows 10, Linux (Ubuntu, RedHat)
+Microcontrollers: Arduino, Raspberry Pi, TI Launchpad
 
-# C'thulhu
+---
+### Work Experience
+*HPCCEA Intern, Lawrence Livermore National Laboratory* - Summer 2020 - Built up small scale HPC cluster, learned about Linux systems and how to configure Linux systems. Worked with MSRs to read run-time information from CPU to help time, analyze, and optimize matrix multiplication algorithms.
 
-> I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
+*Project Coordinator, IEEE@UCI* - 2020-2021 - Manage and develop club wide projects and lead workshops in topics like KiCAD, Solidworks, and Neural Networks.
 
-## Education
+*Software Lead, FRC Team 649* - 2018-2019 - Developed autonomous path-following code in Java. Defined code porject structure and wrote technical documents on robot softwrae. Taught new students to code in Java, led a team of ten people in code development.
 
-### **Withering Madness University** Planet Vhoorl
+*UCI ICS Tutor* - 2020 - Tutored students enrolled in beginning Python course at UCI
 
-**Major:** Public Relations
+*Senior Night Raffle Program* - 2019 - Commissioned to write a program to select and display winners of a raffle, receiving data from a spreadsheet downloaded from Google Drive. Written in Python and C++.
 
-**Minor:** Scale Tending
-
-## Skills
-
-### **Office skills**
-
-Office and records management, database administration, event organization, customer support, travel coordination
-
-### **Computer skills**
-
-Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
-
-## Experience
-
-### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
-
-- Inspired and won highest peasant death competition among servants
-- Helped coordinate managers to grow cult following
-- Provided untimely deaths to all who opposed
-
-### **Bartender/Server** The Watering Hole, Milwaukee, WI <span>2009</span>
-
-- Worked on grass-roots promotional campaigns
-- Reduced theft and property damage percentages
-- Janitorial work, Laundry
-
-## Hobbies
-
-World Domination, Deep Sea Diving, Murder Most Foul
-
-## References
-
-Available on request
-
-## Links
-
-<a href="https://github.com/gonsie/Cthulu-Resume"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>Find This on GitHub</a>
+*Delivery Drone* - 2019 - Built a delivery drone as part of a engineering class in high school. Tested different combinations of motors and rotors for maximum lift and control, custom machine chasis
