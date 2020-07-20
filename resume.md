@@ -3,6 +3,15 @@ title: Valen Yamamoto
 layout: resume
 ---
 
+texture:
+  title: Adam Denisov
+  tagline: Developer. Designer
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: thelehhman
+    github:  thelehhman
+    linkedIn: in/thelehhman # format: locale/username
 # Valen Yamamoto
 # Computer Science and Engineering Student
 # [Github Page](https://github.com/ValenYammaoto)
