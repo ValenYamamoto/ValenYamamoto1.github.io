@@ -1,3 +1,8 @@
+---
+title: Valen Yamamoto
+layout: resume 
+---
+
 # Valen Yamamoto
 ### Computer Science and Engineering Student
 ### [Github Page](https://github.com/ValenYammaoto)
