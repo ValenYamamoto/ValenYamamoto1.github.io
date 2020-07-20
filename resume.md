@@ -8,24 +8,24 @@ layout: resume
 # [Github Page](https://github.com/ValenYammaoto)
 ----
 ## Contact Information
-Location: San Jose, CA 95070\
-Phone: (408) 394-5225\
+Location: San Jose, CA 95070  
+Phone: (408) 394-5225  
 Email: valenryamamoto@gmail.com
 
 ---
 ## Education
-School: University of California, Irvine\
-Expected Graduation: 2023\
-Major: Computer Science and Engineering\
-GPA: 4.0\
+School: University of California, Irvine  
+Expected Graduation: 2023  
+Major: Computer Science and Engineering  
+GPA: 4.0  
 
 ---
 ## Key Skills
-Programming Languages: Python, C, C++, Java, R, MATLAB
-Programs: Microsoft Excel, Solidworks, KiCAD
-Version Control: Git
-Operating Systems: Windows 10, Linux (Ubuntu, RedHat)
-Microcontrollers: Arduino, Raspberry Pi, TI Launchpad
+Programming Languages: Python, C, C++, Java, R, MATLAB  
+Programs: Microsoft Excel, Solidworks, KiCAD  
+Version Control: Git  
+Operating Systems: Windows 10, Linux (Ubuntu, RedHat)  
+Microcontrollers: Arduino, Raspberry Pi, TI Launchpad  
 
 ---
 ## Work Experience
